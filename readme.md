@@ -8,7 +8,7 @@
 -   [ProjectStructure](#project-structure)
 -   [Conclusion](#conclusion)
 
-**Live demo** [click here](https://reactquiz-app.netlify.app/)
+**Live demo** [click here](https://quiz-for-react-app.netlify.app/)
 
 ---
 
